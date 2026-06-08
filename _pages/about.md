@@ -38,6 +38,8 @@ Previously, I earned my bachelor’s degree at Nanjing University. In 2024 I com
 
 此前我在南京大学取得了本科学位。2024年我曾在华为有一段实习经历，主要参与鸿蒙操作系统动效组件的开发。
 
+[中文主页链接](https://zuyu3.github.io/Zuyu3-cn.github.io/)
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
