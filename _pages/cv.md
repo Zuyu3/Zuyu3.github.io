@@ -4,9 +4,9 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: /assets/pdf/cv.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: The Chinese version and the PDF version will be released soon.
+description: 中文版请访问(https://zuyu3.github.io/Zuyu3-cn.github.io/cv/)
 toc:
   sidebar: left
 ---
