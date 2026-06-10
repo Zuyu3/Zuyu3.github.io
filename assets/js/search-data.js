@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "The Chinese version and the PDF version will be released soon.",
+          description: "中文版请访问(https://zuyu3.github.io/Zuyu3-cn.github.io/cv/)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -58,7 +58,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
